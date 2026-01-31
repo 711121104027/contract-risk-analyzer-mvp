@@ -1,0 +1,18 @@
+{
+  "Penalty": {
+    "keywords": ["penalty", "liquidated damages"],
+    "risk": "High"
+  },
+  "Indemnity": {
+    "keywords": ["indemnify", "hold harmless"],
+    "risk": "High"
+  },
+  "Termination": {
+    "keywords": ["terminate", "termination"],
+    "risk": "Medium"
+  },
+  "NonCompete": {
+    "keywords": ["non-compete", "restriction"],
+    "risk": "High"
+  }
+}
