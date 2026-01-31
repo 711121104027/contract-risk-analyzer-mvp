@@ -5,5 +5,4 @@ spacy
 langdetect
 scikit-learn
 reportlab
-argostranslate
 nltk
